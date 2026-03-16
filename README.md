@@ -24,6 +24,8 @@ using namespace dslib;
 Array<int> obj;
 
 obj.InsertLast(10);
+
 obj.InsertLast(20);
+
 obj.Display();
 
